@@ -1,5 +1,5 @@
 
---BuilIn Functions
+--BuiltIn Functions
 
 --Strings Functions
 
